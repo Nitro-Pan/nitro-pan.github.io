@@ -1,0 +1,11 @@
+---
+# must have front matter present so jekyll will load this properly
+---
+
+$background-color: #14171d;
+$text-color: #eee;
+$brand-color: #d65a31;
+
+$grey-color: #96a2b8;
+
+@import "{{ site.theme }}";
