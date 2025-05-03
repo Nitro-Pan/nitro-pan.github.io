@@ -1,0 +1,28 @@
+.site-header {
+    position: sticky;
+    top: 0px;
+    width: 100%;
+    background: $background-color;
+}
+
+
+.breach-title {
+    color: #d8c666;
+    filter: drop-shadow(0.03em 0.03em darken(#d8c666, 20%));
+}
+
+
+.chromode-title-red {
+    color: red;
+    filter: drop-shadow(0.03em 0.03em darken(red, 25%));
+}
+
+.chromode-title-green {
+    color: green;
+    filter: drop-shadow(0.03em 0.03em darken(green, 15%));
+}
+
+.chromode-title-blue {
+    color: blue;
+    filter: drop-shadow(0.03em 0.03em darken(blue, 15%));
+}

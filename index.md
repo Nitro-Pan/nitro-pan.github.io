@@ -4,5 +4,10 @@
 
 layout: home
 ---
+<div align="center"><img src="/assets/images/tube-amp.jpg" alt="High aperture tube amp"/></div>
 
-This is the the markdown
+<br />
+Hi! I'm Tate, a Software Engineer and Game Developer based in Vancouver, BC.
+
+I've worked professionally in the games industry since 2020, and I've been making them since 2015. I'm well versed in C# and C++, and I've got experience in Unity, Unreal Engine, and Godot.
+<br /><br /><br /><br />

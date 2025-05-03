@@ -1,0 +1,29 @@
+.hidable-image-text {
+    display: block;
+}
+
+.showcase-table td {
+    border: 0px;
+    width: 50%;
+}
+
+.showcase-table {
+    border: 0px;
+}
+
+.showcase-table video {
+    max-width: 100%;
+}
+
+.showcase-table img {
+    max-width: 100%;
+}
+
+.showcase-image-credit {
+    background-color: lighten($background-color, 5%);
+    color: darken($text-color, 30%);
+}
+
+.showcase-image-credit p {
+    padding-left: 0.3em;
+}

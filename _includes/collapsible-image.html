@@ -1,0 +1,8 @@
+<div>
+    <img src="{{ include.image_source }}" alt="{{ include.image_alt }}" />
+    {%- if include.credit -%}
+    <div class="showcase-image-credit">
+        <p>{{ include.credit }}</p>
+    </div>
+    {%- endif -%}
+</div>

@@ -18,22 +18,27 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Abyss
+title: grovetender.dev
 email: tate.smith.4242@gmail.com
+author: Tate Smith
 description: >- # this means to ignore newlines until "baseurl:"
-  Not sure what to put here yet since I don't have a lot of content
-  to add. I don't really want this to be a CV adder, I want something
-  where I can air out my thoughts and scream into the abyss, and hopefully
-  someone can scream back.
+  Tate is a software engineer and game developer located in Vancouver, BC.
+  He's worked on Marvel: Contest of Champions and is an active contributor 
+  to rendering backends.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://portfolio.grovetender.dev" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  nitro-pan
+linkedin_username: tateksmith
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+header_pages:
+  - portfolio.md
+  - about.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.

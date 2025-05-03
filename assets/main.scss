@@ -8,4 +8,7 @@ $brand-color: #d65a31;
 
 $grey-color: #96a2b8;
 
-@import "{{ site.theme }}";
+@import "{{ site.theme }}",
+        "monokai",
+        "collapsible-image",
+        "random-stuff";
