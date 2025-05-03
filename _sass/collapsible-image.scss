@@ -30,7 +30,6 @@
 
 .col-portfolio video {
     max-width: 100%;
-    width: 100%
 }
 
 .col-portfolio img {
@@ -40,5 +39,9 @@
 @include media-query($on-palm) {
     .col-portfolio-container {
         flex-direction: column;
+    }
+
+    .col-portfolio video {
+        max-width: 0.8vw;
     }
 }
