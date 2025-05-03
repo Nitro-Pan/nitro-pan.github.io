@@ -9,6 +9,7 @@
 
 .showcase-image-credit p {
     padding-left: 0.3rem;
+    margin: 0px;
 }
 
 .col-info-table-container {
@@ -36,12 +37,25 @@
     max-width: 100%;
 }
 
+.col-info-table p {
+    margin: 0px;
+}
+
 @include media-query($on-palm) {
     .col-info-table-container {
         flex-direction: column;
+        gap: 1rem;
     }
 
     .col-info-table video {
         max-width: 80vw;
+    }
+
+    .flex-first {
+        order: 1;
+    }
+    
+    .flex-second {
+        order: 2;
     }
 }
