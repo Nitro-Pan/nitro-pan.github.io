@@ -11,7 +11,7 @@
     padding-left: 0.3rem;
 }
 
-.col-portfolio-container {
+.col-info-table-container {
     display: flex;
     flex-direction: row;
     gap: 2rem;
@@ -20,7 +20,7 @@
     margin-bottom: 2rem;
 }
 
-.col-portfolio {
+.col-info-table {
     text-align: left;
     width: 100%;
     display: flex;
@@ -28,20 +28,20 @@
     align-items: center;
 }
 
-.col-portfolio video {
+.col-info-table video {
     max-width: 100%;
 }
 
-.col-portfolio img {
+.col-info-table img {
     max-width: 100%;
 }
 
 @include media-query($on-palm) {
-    .col-portfolio-container {
+    .col-info-table-container {
         flex-direction: column;
     }
 
-    .col-portfolio video {
-        max-width: 0.8vw;
+    .col-info-table video {
+        max-width: 80vw;
     }
 }
