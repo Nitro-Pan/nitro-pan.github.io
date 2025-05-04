@@ -6,20 +6,20 @@ permalink: /projects/
 ## Marvel: Contest of Champions
 <div class="col-info-table-container">
     <div class="col-info-table flex-second">
-        <p><b>Marvel: Contest of Champions</b> is a free-to-play mobile fighting game featuring over 300 characters. I created and updated most of the UI elements for Alliance Quest and Wars, in addition to handling all the post-launch support for Battlegrounds, the 1v1 PvP mode.<br /><a href="https://playcontestofchampions.com/" target="_blank" rel="noreferrer noopener">Play it here!</a></p>
+        <p><b>Marvel: Contest of Champions</b> is a free-to-play mobile fighting game featuring over 300 characters. I created and updated most of the UI elements for Alliance Quest and Wars, in addition to handling all the post-launch support for Battlegrounds, the premier 1v1 PvP mode.<br /><a href="https://playcontestofchampions.com/" target="_blank" rel="noreferrer noopener">Play it here!</a></p>
     </div>
     <div class="col-info-table flex-first">
-        {%- include collapsible-image.html image_source="/assets/images/mcoc-cover.jpg" image_alt="Marvel: Contest of Champions cover art" credit="Image Credit: Kabam" -%}
+        {%- include credit-image.html src="/assets/images/mcoc-cover.jpg" alt="Marvel: Contest of Champions cover art" credit="Image Credit: Kabam" -%}
     </div>
 </div>
 
 ## CharmQuark Game Engine
 <div class="col-info-table-container">
     <div class="col-info-table flex-first">
-        {%- include collapsible-image.html image_source="/assets/images/specular-highlights.png" image_alt="Specular highlights on two cubes" -%}
+        {%- include credit-image.html src="/assets/images/specular-highlights.png" alt="Specular highlights on two cubes" -%}
     </div>
     <div class="col-info-table flex-second">
-        <p><b>CharmQuark Game Engine</b> is a DirectX12 Game engine written from scratch with a small team. I'm mainly working on the rendering pipeline, which is PBR based and strives for a balance of efficiency and realism. The repository's currently private, but I'd love to talk about it!<br /><a href="">Find out more here.</a></p>
+        <p><b>CharmQuark Game Engine</b> is a DirectX12 Game engine written from scratch with a small team. I'm mainly working on the rendering pipeline, which is PBR based and strives for a balance of efficiency and realism. The repository's currently private, but I'd love to talk about it!<br /><a href="/game-engine">Find out more here.</a></p>
     </div>
 </div>
 

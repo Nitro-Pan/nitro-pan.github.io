@@ -37,7 +37,7 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - portfolio.md
+  - projects.md
   - about.md
 
 # Exclude from processing.
