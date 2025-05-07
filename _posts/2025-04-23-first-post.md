@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "First Post"
+title:  "This Website, Liquid, and Sass"
 date:   2025-05-03 16:59:00 -0700
 categories: meta css html web-design
-permalink: /first-post/
+permalink: /this-website-liquid-and-sass/
 ---
 Hey! I'm new to this whole blogging thing, so bear with me. I'm not entirely sure what I want to post up yet, but I think I'll use this to revisit my game engine and some other things I'm working on, kinda like a public journal. I'm hoping that anyone that's trying to find information on the same things I'm working on can find this page too.
 
@@ -31,7 +31,7 @@ It's nice, pretty clean, and the include statement's pretty simple:
 
 {% raw %}
 ```liquid
-{%- include credit-image.html src="/img.jpg" alt="word" credit="Me" -%}
+{%- include credit-image.html src="/img.jpg" alt="image!" credit="Me" -%}
 ```
 {% endraw %}
 
