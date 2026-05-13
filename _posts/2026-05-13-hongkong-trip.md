@@ -8,7 +8,7 @@ permalink: /legitmate-unemployment-hongkong/
 Hello! Welcome to my little travel blog for my two week trip through the first half of May in 2026! I'll be spending a little more than a week in Hong Kong and a little less than a week in Singapore. I've never really traveled before, and definitely haven't traveled solo, so my first leg in Hong Kong is gonna be an exciting little trip. I'm meeting up with some friends in Singapore so I don't have to be along the entire time I'm out here :)
 
 <div class="blog-image">
-{%- include credit-image.html src="assets/images/hongkong/trip-intro.jpg" alt="idk lol I haven't picked what to put here yet" credit="Hello!" -%}
+{%- include credit-image.html src="/assets/images/hongkong/trip-intro.jpg" alt="idk lol I haven't picked what to put here yet" credit="Hello!" -%}
 </div>
 
 My flight in was ***looooooong***. I left my house around 10am on April 30th and landed on May 2nd at 6am, through a +15 hour time difference. Even without that, it still took me almost 24 hours to get from my house to Hong Kong.
