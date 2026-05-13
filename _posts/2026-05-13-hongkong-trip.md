@@ -47,7 +47,7 @@ These beef noodles I got later in the trip weren't so great. They came out reall
     {%- include credit-image.html src="/assets/images/hongkong/island-workbench-breakfast.jpg" alt="An omelette with an iced coffee and toast" credit="Omelette from Island Workbench on Cheung Chau" -%}
     </div>
     <div class="col-info-table flex-second">
-    {%- include credit-image.html src="/assetes/images/hongkong/red-tea-cha-chaan-teng.jpg" alt="eggs, toast, and a porkchop in macaroni soup" credit="Cha Chaan Teng from Red Tea in Tsim Sha Tsui" -%}
+    {%- include credit-image.html src="/assets/images/hongkong/red-tea-cha-chaan-teng.jpg" alt="eggs, toast, and a porkchop in macaroni soup" credit="Cha Chaan Teng from Red Tea in Tsim Sha Tsui" -%}
     </div>
 
 </div>
@@ -93,7 +93,7 @@ Cheung Chau was my favourite spot to just experience on Hong Kong. It offered a 
     {%- include credit-image.html src="/assets/images/hongkong/cheung-chau-approach.jpg" alt="cheung chau island from the ferry" credit="" -%}
     </div>
     <div class = "col-info-table flex-second">
-    {%- include credit-image.html src="/assets/images/hongkong/cheung-chau-forst-pathway.jpg" alt="the path disappearing into the distance" credit="" -%}
+    {%- include credit-image.html src="/assets/images/hongkong/cheung-chau-forest-pathway.jpg" alt="the path disappearing into the distance" credit="" -%}
     </div>
 </div>
 
